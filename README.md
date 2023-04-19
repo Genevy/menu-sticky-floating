@@ -9,6 +9,7 @@
 <br>
 <p align="center">🔎 Explore on <a href="https://genevy.github.io/menu-sticky-floating/"><strong>GitHub Pages »</strong></a></p>
 <br>
+
 ##
 ####
 © Made with care for everyone's use by [Evgeny Striganov](https://github.com/genevy) 
