@@ -3,6 +3,7 @@
 ##
 
 <br>
+<br>
 <p align="center">
 Плавающее липкое горизонтальное меню сайта при скроллинге (прокрутке) страницы средствами HTML, CSS и JavaScript без jQuery и бубнов
 <br>
@@ -11,5 +12,5 @@
 <br>
 
 ##
-####
-© Made with care for everyone's use by [Evgeny Striganov](https://github.com/genevy) 
+<br>
+<div align="center"><p>© Made with care for everyone's use by <a href="https://github.com/genevy">Evgeny Striganov</a></p></div>

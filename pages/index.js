@@ -26,4 +26,3 @@ window.addEventListener('scroll', detectScrollDirection);
 /* Adding the current year to footer */
 const currentYear = new Date().getFullYear();
 document.querySelector('.year').innerHTML = currentYear;
-
