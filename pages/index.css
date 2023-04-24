@@ -1,18 +1,10 @@
 @import url(../vendor/normalize.css);
 @import url(./fonts/roboto.css);
 
-/********** Smooth scrolling on anchors **********/ 
-
+/* Smooth scrolling on anchors */ 
 * {
   scroll-behavior: smooth;
 }
-
-p {
-  white-space: pre-line;    /* Smooth scrolling on anchors */ 
-}
-
-/**************************************************/ 
-
 
 .page {
     color: #66727f;
@@ -31,8 +23,7 @@ p {
     height: 100vh;
 }
 
-/************* Floating sticky menu *************/ 
-
+/* Floating sticky menu */ 
 .header__nav {
     position: fixed;
     top: 0;
@@ -59,8 +50,7 @@ p {
     top: -83px;
   }
 }
-
-/**************************************************/ 
+/* END Floating sticky menu */ 
 
 .header__nav-container {
     display: flex;
