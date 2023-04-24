@@ -3,12 +3,12 @@
 
 /********** Smooth scrolling on anchors **********/ 
 
-html {
-    scroll-behavior: smooth;  /* Smooth scrolling on anchors */ 
+* {
+  scroll-behavior: smooth;
 }
 
 p {
-    white-space: pre-line;    /* Smooth scrolling on anchors */ 
+  white-space: pre-line;    /* Smooth scrolling on anchors */ 
 }
 
 /**************************************************/ 
@@ -185,18 +185,6 @@ p {
   font-size: 1em;
 }
 
-.footer__link {
-    text-transform: none;
-    text-decoration: none;
-    font-weight: bold;
-    color: #66727f;
-    transition: color .3s linear;
-}
-
-.footer__link:hover {
-    color: #999;
-}
-
 @media (max-width: 880px) {
   .footer__copyright {
     width: 100%;
@@ -207,6 +195,18 @@ p {
     font-size: 0.8em;
     line-height: 1.5;
   }
+}
+
+.footer__link {
+    text-transform: none;
+    text-decoration: none;
+    font-weight: bold;
+    color: #66727f;
+    transition: color .3s linear;
+}
+
+.footer__link:hover {
+    color: #999;
 }
 
  
